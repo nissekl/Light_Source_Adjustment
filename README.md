@@ -12,3 +12,6 @@ This application is based on the photometric stereo theory and the paper "What I
 </p>
 
 3.Press 'esc' to end the program.
+
+### Notice
+This program only can export gray scale image, will modify to export RGB image in the future. 
